@@ -6,6 +6,6 @@ module.exports = {
   maxPageSize: 25,
   baseUrl: process.env.BASE_URL || 'localhost:3001',
   resources: [
-    'people'
+    'people', 'events'
   ]
 }
