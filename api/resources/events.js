@@ -11,6 +11,6 @@ module.exports = {
         resolve('')
     }),
 
-    validate: req => ({"query": {}})
+    validate: req => ({})
 }
 
